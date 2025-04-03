@@ -6,6 +6,7 @@ The dashboard provides key insights into sales performance, profitability, and c
 
 ## Key Features
 - Data Cleaning and Transformation : Processed and structured raw sales data for accurate analysis.
+- DAX Calculations : Used DAX queries to create calculated columns, tables, and measures for in-depth analysis.
 - KPI Tracking : Monitored key business metrics, including Total Sales, Profit, Orders, and Ship Days.
 - Interactive Visualizations : Created insightful charts to present sales trends effectively.
 - Sales Forecasting : Implemented time series analysis to predict sales for the next 15 days.
@@ -22,4 +23,8 @@ The dashboard provides key insights into sales performance, profitability, and c
 ## Project Objective
 The goal of this project is to analyze Superstore sales data (2019-2020) to identify trends in sales performance, customer preferences, and regional demand. It tracks key performance metrics, forecasts future sales, and helps businesses make data-driven decisions, optimize sales strategies, and improve overall performance.
 
-## 
+## Project Learnings
+- Data Preparation : Improved skills in data cleaning and transformation for better analytics.
+- DAX Formulas : Applied DAX functions to create calculated columns and measures.
+- Sales Forecasting : Used historical trends to develop predictive sales models.
+- Dashboard Design : Developed an interactive and dynamic dashboard to support business decision-making.
